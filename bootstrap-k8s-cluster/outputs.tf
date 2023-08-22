@@ -1,3 +1,3 @@
 output greeting {
-  value = "hello world"
+  value = "hello world!"
 }
